@@ -1,1 +1,1 @@
-Basic application for storing documents.
+Basic application for storing documents. File Cabinet application (Evernote Lookalike).
